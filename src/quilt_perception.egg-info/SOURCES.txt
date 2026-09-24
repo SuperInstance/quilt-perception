@@ -1,0 +1,8 @@
+README.md
+setup.py
+src/quilt_perception/__init__.py
+src/quilt_perception/sensor_stream.py
+src/quilt_perception.egg-info/PKG-INFO
+src/quilt_perception.egg-info/SOURCES.txt
+src/quilt_perception.egg-info/dependency_links.txt
+src/quilt_perception.egg-info/top_level.txt
